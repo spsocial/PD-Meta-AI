@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.3",
+  "latest": "1.0.4",
   "releaseDate": "2026-10-07",
-  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.3/PD-Meta-AI-v1.0.3.zip",
-  "changelog": "🛍️ หน้าเลือกสินค้า TikTok โฉมใหม่ — ⭐ ติดดาวสินค้าที่อยากทำ (จำไว้ให้) · เรียงตามค่าคอม/ราคา/ชื่อ · กรองตามหมวด · โชว์ค่าคอมเป็นบาท · 🔑 กดสร้างคลิปตอนยังไม่ใส่คีย์ = เด้งช่องใส่คีย์ให้เลย",
+  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.4/PD-Meta-AI-v1.0.4.zip",
+  "changelog": "🚫 รู้ทันเมื่อโควตาวิดีโอของ Meta หมด — ลิมิตรายวัน = หยุดทันทีพร้อมบอกเหตุผล · เต็มชั่วคราว = รอแล้วสั่งสร้างใหม่ให้เอง · 💬 log บอกว่า Meta ตอบอะไร ไม่ต้องเปิดหน้า Meta ไปดู",
   "versions": [
+    {
+      "version": "1.0.4",
+      "date": "2026-10-07",
+      "changelog": "🚫 รู้ทันเมื่อโควตาวิดีโอของ Meta หมด — ลิมิตรายวัน = หยุดทันทีพร้อมบอกเหตุผล · เต็มชั่วคราว = รอแล้วสั่งสร้างใหม่ให้เอง · 💬 log บอกว่า Meta ตอบอะไร ไม่ต้องเปิดหน้า Meta ไปดู",
+      "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.4/PD-Meta-AI-v1.0.4.zip"
+    },
     {
       "version": "1.0.3",
       "date": "2026-10-07",
