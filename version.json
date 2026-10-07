@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.1",
+  "latest": "1.0.2",
   "releaseDate": "2026-10-07",
-  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.1/PD-Meta-AI-v1.0.1.zip",
-  "changelog": "🎬 เลือกทำคลิป 1 ฉาก (10 วินาที) ได้แล้ว · 🔄 มีระบบแจ้งเตือนเวอร์ชันใหม่ในหน้าใช้งาน",
+  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.2/PD-Meta-AI-v1.0.2.zip",
+  "changelog": "🛍️ ดึงสินค้าจากโชว์เคส TikTok มาทำคลิปได้แล้ว — เลือกได้หลายชิ้น แต่ละคลิปแนบรูปสินค้าของตัวเอง · 🎬 เลือก 1 ฉาก (10 วิ) ได้",
   "versions": [
+    {
+      "version": "1.0.2",
+      "date": "2026-10-07",
+      "changelog": "🛍️ ดึงสินค้าจากโชว์เคส TikTok มาทำคลิปได้แล้ว — เลือกได้หลายชิ้น แต่ละคลิปแนบรูปสินค้าของตัวเอง · 🎬 เลือก 1 ฉาก (10 วิ) ได้",
+      "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.2/PD-Meta-AI-v1.0.2.zip"
+    },
     {
       "version": "1.0.1",
       "date": "2026-10-07",
