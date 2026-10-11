@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.4",
-  "releaseDate": "2026-10-07",
-  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.4/PD-Meta-AI-v1.0.4.zip",
-  "changelog": "🚫 รู้ทันเมื่อโควตาวิดีโอของ Meta หมด — ลิมิตรายวัน = หยุดทันทีพร้อมบอกเหตุผล · เต็มชั่วคราว = รอแล้วสั่งสร้างใหม่ให้เอง · 💬 log บอกว่า Meta ตอบอะไร ไม่ต้องเปิดหน้า Meta ไปดู",
+  "latest": "1.0.5",
+  "releaseDate": "2026-10-11",
+  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.5/PD-Meta-AI-v1.0.5.zip",
+  "changelog": "🖥️ กดปุ่ม 🔑 คีย์ เห็นรายชื่อเครื่องที่ใช้คีย์นี้ทั้งหมด (PD App / PD Meta AI + เวลาใช้ล่าสุด) — ถอดเครื่องที่เลิกใช้ได้เองทันที ไม่ต้องลง PD App กลับมาถอด",
   "versions": [
+    {
+      "version": "1.0.5",
+      "date": "2026-10-11",
+      "changelog": "🖥️ กดปุ่ม 🔑 คีย์ เห็นรายชื่อเครื่องที่ใช้คีย์นี้ทั้งหมด (PD App / PD Meta AI + เวลาใช้ล่าสุด) — ถอดเครื่องที่เลิกใช้ได้เองทันที ไม่ต้องลง PD App กลับมาถอด",
+      "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.5/PD-Meta-AI-v1.0.5.zip"
+    },
     {
       "version": "1.0.4",
       "date": "2026-10-07",
