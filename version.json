@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.8",
+  "latest": "1.0.9",
   "releaseDate": "2026-10-16",
-  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.8/PD-Meta-AI-v1.0.8.zip",
-  "changelog": "📖 ปุ่ม 'วิธีใช้' + คู่มือเริ่มต้น 5 ขั้น (เปิดให้เองครั้งแรก) · 📜 บันทึกการทำงานไม่หายแล้วตอนบอทกำลังทำงาน (กลับมาหน้านี้เห็น log ครบ)",
+  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.9/PD-Meta-AI-v1.0.9.zip",
+  "changelog": "🔌 แก้กดสร้างคลิปแล้วปุ่มไม่เปลี่ยน + บันทึกการทำงานเงียบ (ทั้งที่บอททำงานอยู่) — หน้าบอทต่อสายกับตัวทำงานใหม่เองอัตโนมัติ · ปุ่มเปลี่ยนสถานะทันทีที่กด กันกดซ้ำ",
   "versions": [
+    {
+      "version": "1.0.9",
+      "date": "2026-10-16",
+      "changelog": "🔌 แก้กดสร้างคลิปแล้วปุ่มไม่เปลี่ยน + บันทึกการทำงานเงียบ (ทั้งที่บอททำงานอยู่) — หน้าบอทต่อสายกับตัวทำงานใหม่เองอัตโนมัติ · ปุ่มเปลี่ยนสถานะทันทีที่กด กันกดซ้ำ",
+      "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.9/PD-Meta-AI-v1.0.9.zip"
+    },
     {
       "version": "1.0.8",
       "date": "2026-10-16",
