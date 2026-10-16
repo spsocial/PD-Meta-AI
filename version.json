@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.6",
+  "latest": "1.0.7",
   "releaseDate": "2026-10-16",
-  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.6/PD-Meta-AI-v1.0.6.zip",
-  "changelog": "📮 โพส TikTok อัตโนมัติหลังคลิปเสร็จ — โพสทันที / ตั้งเวลาไล่ทีละคลิป / บันทึกร่าง · แคปชั่นใส่ชื่อสินค้าให้เอง · แฮชแท็ก · ปักตะกร้าสินค้า TikTok · ติดป้ายเนื้อหา AI",
+  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.7/PD-Meta-AI-v1.0.7.zip",
+  "changelog": "🟢 ชิปสถานะมุมขวาบนบอกตามจริง — เขียว = พร้อม · เหลือง = เปิดอยู่แต่แท็บพัก (กดสร้างคลิปแล้วปลุกให้เอง) · เทา = ยังไม่เปิด/ยังไม่ล็อกอิน (เดิมเทาค้างทั้งที่ใช้งานได้)",
   "versions": [
+    {
+      "version": "1.0.7",
+      "date": "2026-10-16",
+      "changelog": "🟢 ชิปสถานะมุมขวาบนบอกตามจริง — เขียว = พร้อม · เหลือง = เปิดอยู่แต่แท็บพัก (กดสร้างคลิปแล้วปลุกให้เอง) · เทา = ยังไม่เปิด/ยังไม่ล็อกอิน (เดิมเทาค้างทั้งที่ใช้งานได้)",
+      "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.7/PD-Meta-AI-v1.0.7.zip"
+    },
     {
       "version": "1.0.6",
       "date": "2026-10-16",
