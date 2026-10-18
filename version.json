@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.9",
-  "releaseDate": "2026-10-16",
-  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.9/PD-Meta-AI-v1.0.9.zip",
-  "changelog": "🔌 แก้กดสร้างคลิปแล้วปุ่มไม่เปลี่ยน + บันทึกการทำงานเงียบ (ทั้งที่บอททำงานอยู่) — หน้าบอทต่อสายกับตัวทำงานใหม่เองอัตโนมัติ · ปุ่มเปลี่ยนสถานะทันทีที่กด กันกดซ้ำ",
+  "latest": "1.0.10",
+  "releaseDate": "2026-10-18",
+  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.10/PD-Meta-AI-v1.0.10.zip",
+  "changelog": "📦 สินค้าในคลิปตรงของจริง — สั่ง Meta ห้ามสร้างกล่อง/เปลี่ยนแพ็กเกจ/ทำฉากแกะกล่องเอง (กัน TikTok แจ้งสินค้าไม่ตรงปก) · อยากได้แนวแกะกล่อง พิมพ์ \"แกะกล่อง\" ในแนวเรื่องได้",
   "versions": [
+    {
+      "version": "1.0.10",
+      "date": "2026-10-18",
+      "changelog": "📦 สินค้าในคลิปตรงของจริง — สั่ง Meta ห้ามสร้างกล่อง/เปลี่ยนแพ็กเกจ/ทำฉากแกะกล่องเอง (กัน TikTok แจ้งสินค้าไม่ตรงปก) · อยากได้แนวแกะกล่อง พิมพ์ \"แกะกล่อง\" ในแนวเรื่องได้",
+      "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.10/PD-Meta-AI-v1.0.10.zip"
+    },
     {
       "version": "1.0.9",
       "date": "2026-10-16",
