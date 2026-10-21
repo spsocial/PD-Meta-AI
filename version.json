@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.10",
-  "releaseDate": "2026-10-18",
-  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.10/PD-Meta-AI-v1.0.10.zip",
-  "changelog": "📦 สินค้าในคลิปตรงของจริง — สั่ง Meta ห้ามสร้างกล่อง/เปลี่ยนแพ็กเกจ/ทำฉากแกะกล่องเอง (กัน TikTok แจ้งสินค้าไม่ตรงปก) · อยากได้แนวแกะกล่อง พิมพ์ \"แกะกล่อง\" ในแนวเรื่องได้",
+  "latest": "1.0.11",
+  "releaseDate": "2026-10-21",
+  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.11/PD-Meta-AI-v1.0.11.zip",
+  "changelog": "✍️ แก้ส่งบรีฟไม่ติด — Meta เปลี่ยนช่องพิมพ์แบบใหม่ ทำให้ Meta ตอบอธิบายรูปแทนสร้างคลิป · ตอนนี้รูปสินค้าแนบไปพร้อมบรีฟครบ",
   "versions": [
+    {
+      "version": "1.0.11",
+      "date": "2026-10-21",
+      "changelog": "✍️ แก้ส่งบรีฟไม่ติด — Meta เปลี่ยนช่องพิมพ์แบบใหม่ ทำให้ Meta ตอบอธิบายรูปแทนสร้างคลิป · ตอนนี้รูปสินค้าแนบไปพร้อมบรีฟครบ",
+      "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.11/PD-Meta-AI-v1.0.11.zip"
+    },
     {
       "version": "1.0.10",
       "date": "2026-10-18",
