@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.11",
-  "releaseDate": "2026-10-21",
-  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.11/PD-Meta-AI-v1.0.11.zip",
-  "changelog": "✍️ แก้ส่งบรีฟไม่ติด — Meta เปลี่ยนช่องพิมพ์แบบใหม่ ทำให้ Meta ตอบอธิบายรูปแทนสร้างคลิป · ตอนนี้รูปสินค้าแนบไปพร้อมบรีฟครบ",
+  "latest": "1.0.12",
+  "releaseDate": "2026-11-03",
+  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.12/PD-Meta-AI-v1.0.12.zip",
+  "changelog": "🖼️ ใหม่: ติ๊ก \"สร้างภาพสินค้าก่อน\" (โหมดขายสินค้า) — Meta สร้างภาพที่สินค้าเหมือนรูปเป๊ะก่อน แล้วทำคลิปต่อจากภาพนั้น สินค้าไม่เพี้ยน · 🩹 หน้า Meta ภาษาอังกฤษแนบรูปแล้วค้างที่กล่อง Discard prompt — แก้แล้ว · ตัวรวมคลิปไม่หยิบฉากย่อยผิด",
   "versions": [
+    {
+      "version": "1.0.12",
+      "date": "2026-11-03",
+      "changelog": "🖼️ ใหม่: ติ๊ก \"สร้างภาพสินค้าก่อน\" (โหมดขายสินค้า) — Meta สร้างภาพที่สินค้าเหมือนรูปเป๊ะก่อน แล้วทำคลิปต่อจากภาพนั้น สินค้าไม่เพี้ยน · 🩹 หน้า Meta ภาษาอังกฤษแนบรูปแล้วค้างที่กล่อง Discard prompt — แก้แล้ว · ตัวรวมคลิปไม่หยิบฉากย่อยผิด",
+      "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.12/PD-Meta-AI-v1.0.12.zip"
+    },
     {
       "version": "1.0.11",
       "date": "2026-10-21",
