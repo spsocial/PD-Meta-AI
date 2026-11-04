@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.12",
-  "releaseDate": "2026-11-03",
-  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.12/PD-Meta-AI-v1.0.12.zip",
-  "changelog": "🖼️ ใหม่: ติ๊ก \"สร้างภาพสินค้าก่อน\" (โหมดขายสินค้า) — Meta สร้างภาพที่สินค้าเหมือนรูปเป๊ะก่อน แล้วทำคลิปต่อจากภาพนั้น สินค้าไม่เพี้ยน · 🩹 หน้า Meta ภาษาอังกฤษแนบรูปแล้วค้างที่กล่อง Discard prompt — แก้แล้ว · ตัวรวมคลิปไม่หยิบฉากย่อยผิด",
+  "latest": "1.0.13",
+  "releaseDate": "2026-11-04",
+  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.13/PD-Meta-AI-v1.0.13.zip",
+  "changelog": "🗣️ ชื่อสินค้ายาว ตัวละครพูดชื่อเต็ม (รวมรหัส/วงเล็บ) จนกินเวลาคลิป — ตอนนี้ย่อชื่อตอนพูดให้เอง เช่น \"GIORDANO … 13106309\" → \"GIORDANO กางเกงขาสั้นผู้ชาย\"",
   "versions": [
+    {
+      "version": "1.0.13",
+      "date": "2026-11-04",
+      "changelog": "🗣️ ชื่อสินค้ายาว ตัวละครพูดชื่อเต็ม (รวมรหัส/วงเล็บ) จนกินเวลาคลิป — ตอนนี้ย่อชื่อตอนพูดให้เอง เช่น \"GIORDANO … 13106309\" → \"GIORDANO กางเกงขาสั้นผู้ชาย\"",
+      "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.13/PD-Meta-AI-v1.0.13.zip"
+    },
     {
       "version": "1.0.12",
       "date": "2026-11-03",
