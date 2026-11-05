@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.13",
-  "releaseDate": "2026-11-04",
-  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.13/PD-Meta-AI-v1.0.13.zip",
-  "changelog": "🗣️ ชื่อสินค้ายาว ตัวละครพูดชื่อเต็ม (รวมรหัส/วงเล็บ) จนกินเวลาคลิป — ตอนนี้ย่อชื่อตอนพูดให้เอง เช่น \"GIORDANO … 13106309\" → \"GIORDANO กางเกงขาสั้นผู้ชาย\"",
+  "latest": "1.0.14",
+  "releaseDate": "2026-11-05",
+  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.14/PD-Meta-AI-v1.0.14.zip",
+  "changelog": "💬 ปุ่มแจ้งปัญหา / เสนอแนะ (มุมซ้ายล่าง) — ส่งเรื่องถึงทีมได้ตรงจากในบอท แนบรูปได้ · ทีมตอบกลับในแท็บ \"เรื่องของฉัน\" (มีจุดแดงเมื่อมีคำตอบ) · กดยืนยัน หายแล้ว / ยังไม่หาย ได้",
   "versions": [
+    {
+      "version": "1.0.14",
+      "date": "2026-11-05",
+      "changelog": "💬 ปุ่มแจ้งปัญหา / เสนอแนะ (มุมซ้ายล่าง) — ส่งเรื่องถึงทีมได้ตรงจากในบอท แนบรูปได้ · ทีมตอบกลับในแท็บ \"เรื่องของฉัน\" (มีจุดแดงเมื่อมีคำตอบ) · กดยืนยัน หายแล้ว / ยังไม่หาย ได้",
+      "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.14/PD-Meta-AI-v1.0.14.zip"
+    },
     {
       "version": "1.0.13",
       "date": "2026-11-04",
