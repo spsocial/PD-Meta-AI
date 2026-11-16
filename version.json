@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.14",
-  "releaseDate": "2026-11-05",
-  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.14/PD-Meta-AI-v1.0.14.zip",
-  "changelog": "💬 ปุ่มแจ้งปัญหา / เสนอแนะ (มุมซ้ายล่าง) — ส่งเรื่องถึงทีมได้ตรงจากในบอท แนบรูปได้ · ทีมตอบกลับในแท็บ \"เรื่องของฉัน\" (มีจุดแดงเมื่อมีคำตอบ) · กดยืนยัน หายแล้ว / ยังไม่หาย ได้",
+  "latest": "1.0.15",
+  "releaseDate": "2026-11-16",
+  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.15/PD-Meta-AI-v1.0.15.zip",
+  "changelog": "🩹 แก้ค้างหน้ารอรับบรีฟ / หาปุ่มแนบไฟล์ไม่เจอ — Meta AI เปลี่ยนให้ตอบแบบ Thinking เป็นค่าเริ่มต้น (ตอบนานขึ้น) ระหว่างนั้นบอทส่งบรีฟไม่ได้ · ตอนนี้บอทรอ Meta ตอบเสร็จก่อนแล้วค่อยแนบรูป+ส่งบรีฟ",
   "versions": [
+    {
+      "version": "1.0.15",
+      "date": "2026-11-16",
+      "changelog": "🩹 แก้ค้างหน้ารอรับบรีฟ / หาปุ่มแนบไฟล์ไม่เจอ — Meta AI เปลี่ยนให้ตอบแบบ Thinking เป็นค่าเริ่มต้น (ตอบนานขึ้น) ระหว่างนั้นบอทส่งบรีฟไม่ได้ · ตอนนี้บอทรอ Meta ตอบเสร็จก่อนแล้วค่อยแนบรูป+ส่งบรีฟ",
+      "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.15/PD-Meta-AI-v1.0.15.zip"
+    },
     {
       "version": "1.0.14",
       "date": "2026-11-05",
