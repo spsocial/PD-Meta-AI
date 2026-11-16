@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.15",
+  "latest": "1.0.16",
   "releaseDate": "2026-11-16",
-  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.15/PD-Meta-AI-v1.0.15.zip",
-  "changelog": "🩹 แก้ค้างหน้ารอรับบรีฟ / หาปุ่มแนบไฟล์ไม่เจอ — Meta AI เปลี่ยนให้ตอบแบบ Thinking เป็นค่าเริ่มต้น (ตอบนานขึ้น) ระหว่างนั้นบอทส่งบรีฟไม่ได้ · ตอนนี้บอทรอ Meta ตอบเสร็จก่อนแล้วค่อยแนบรูป+ส่งบรีฟ",
+  "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.16/PD-Meta-AI-v1.0.16.zip",
+  "changelog": "📐 ใหม่: เลือกขนาดคลิปได้ — แนวตั้ง 9:16 (TikTok/Reels) · แนวนอน 16:9 (YouTube/Facebook) · สี่เหลี่ยมจัตุรัส 1:1 · ไม่กำหนด (ให้ Meta เลือกเอง) · ค่าเริ่มต้นยังเป็น 9:16 เหมือนเดิม",
   "versions": [
+    {
+      "version": "1.0.16",
+      "date": "2026-11-16",
+      "changelog": "📐 ใหม่: เลือกขนาดคลิปได้ — แนวตั้ง 9:16 (TikTok/Reels) · แนวนอน 16:9 (YouTube/Facebook) · สี่เหลี่ยมจัตุรัส 1:1 · ไม่กำหนด (ให้ Meta เลือกเอง) · ค่าเริ่มต้นยังเป็น 9:16 เหมือนเดิม",
+      "downloadUrl": "https://github.com/spsocial/PD-Meta-AI/releases/download/v1.0.16/PD-Meta-AI-v1.0.16.zip"
+    },
     {
       "version": "1.0.15",
       "date": "2026-11-16",
